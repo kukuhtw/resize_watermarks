@@ -11,6 +11,9 @@ create folder results_watermarks. apps will put all of images that has been stam
 finally... run file automatis_watermark_images.php
 thats done...
 
+demo video:
+https://www.facebook.com/groups/35688476100/permalink/10155492668596101/
+
 author
 kukuhtw@gmail.com
 
